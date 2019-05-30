@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72fbcb4b14076f1409f817cc237142cc, type: 3}
+  m_Name: Atlass Image
+  m_EditorClassIdentifier: 
+  fruits:
+  - {fileID: 21300000, guid: 99605c4bf33132449be5ce9dd15e7980, type: 3}
+  - {fileID: 21300002, guid: 99605c4bf33132449be5ce9dd15e7980, type: 3}
+  - {fileID: 21300008, guid: 99605c4bf33132449be5ce9dd15e7980, type: 3}
+  - {fileID: 21300010, guid: 99605c4bf33132449be5ce9dd15e7980, type: 3}
+  - {fileID: 21300012, guid: 99605c4bf33132449be5ce9dd15e7980, type: 3}
+  - {fileID: 21300014, guid: 99605c4bf33132449be5ce9dd15e7980, type: 3}
+  bombs:
+  - {fileID: 21300004, guid: 99605c4bf33132449be5ce9dd15e7980, type: 3}
+  - {fileID: 21300006, guid: 99605c4bf33132449be5ce9dd15e7980, type: 3}
